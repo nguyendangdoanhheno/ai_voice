@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.VoiceAI" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#1A1A24</item>
+    </style>
+</resources>
